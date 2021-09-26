@@ -17,6 +17,7 @@ const Cart = (props) => {
         <div className="text-black cart mx-3">
             <h5><span className="text-black fw-bolder">Total Added:</span> {total}</h5>
             <h5><span className="text-black fw-bolder">Total Donation:</span> $ {totalDonation}</h5>
+            <br />
             <h5><span className="text-black fw-bolder">List of names:</span></h5>
             <h5 className="names">{namePerson}</h5>
         </div>
