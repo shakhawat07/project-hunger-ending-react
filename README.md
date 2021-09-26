@@ -4,7 +4,7 @@ Live site project link: [Project Hunger Ending](https://project-hunger-ending.ne
 
 ### Project Highlight
 
-⋅⋅* 
+* Item 1 
 ⋅⋅* Aim is to remove the humger problems within 2030
 ⋅⋅* All the billionaires will donate money each year
 ⋅⋅* Each person can donate many times in one year
