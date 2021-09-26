@@ -1,16 +1,16 @@
 .person{
-    /* display: grid;
-    grid-template-columns: repeat(3,1fr); */
-    border-bottom: 1px solid lightgray;
     margin-right: 5px;
-    padding-bottom: 5px;
+    padding-top: 20px;
+    padding-bottom: 10px;
 }
 .person img{
     width: 270px;
     height: 200px;
+    border-radius: 12px;
 }
-.card-bg{
+.person img:hover{
+    transform: scale(1.07);
+}
+.card-background{
     background-color: #fdfdfdab;
-    color: black;
-    font-weight: 700;
 }

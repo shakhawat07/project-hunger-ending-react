@@ -26,12 +26,10 @@ const Persons = () => {
                         person={person}
                         handleAddToCart={handleAddToCart}
                     >
-
                     </Person>)
                 }
-
             </div>
-            <div className="total-show-container">
+            <div className="cart-container">
                 <Cart cart={cart}></Cart>
             </div>
         </div>

@@ -2,7 +2,7 @@ const data = [
     {
         id: 1,
         name: 'Bernard Arnault',
-        worth: 'USD$196 billion',
+        worth: '$196 billion',
         source: 'Luxury goods',
         homeland: 'France',
         age: 72,
@@ -12,7 +12,7 @@ const data = [
     {
         id: 2,
         name: 'Jeff Bezos',
-        worth: 'USD$186 billion',
+        worth: '$186 billion',
         source: 'Amazon',
         homeland: 'United States',
         age: 57,
@@ -22,7 +22,7 @@ const data = [
     {
         id: 3,
         name: 'Elon Musk',
-        worth: 'USD$160 billion',
+        worth: '$160 billion',
         source: 'Tesla, SpaceX',
         homeland: 'South Africa',
         age: 49,
@@ -32,7 +32,7 @@ const data = [
     {
         id: 4,
         name: 'Bill Gates',
-        worth: 'USD$124 billion',
+        worth: '$124 billion',
         source: 'Microsoft',
         homeland: 'United States',
         age: 65,
@@ -42,7 +42,7 @@ const data = [
     {
         id: 5,
         name: 'Mark Zuckerberg',
-        worth: 'USD$97 billion',
+        worth: '$97 billion',
         source: 'Facebook',
         homeland: 'United States',
         age: 36,
@@ -52,8 +52,8 @@ const data = [
     {
         id: 6,
         name: 'Warren Buffett',
-        worth: 'USD$96 billion',
-        source: 'Berkshire Hathaway',
+        worth: '$96 billion',
+        source: 'Berkshire',
         homeland: 'United States',
         age: 90,
         donate: 15000000,
@@ -62,7 +62,7 @@ const data = [
     {
         id: 7,
         name: 'Larry Ellison',
-        worth: 'USD$93 billion',
+        worth: '$93 billion',
         source: 'Software',
         homeland: 'United States',
         age: 76,
@@ -72,7 +72,7 @@ const data = [
     {
         id: 8,
         name: 'Larry Page',
-        worth: 'USD$91.5 billion',
+        worth: '$91.5 billion',
         source: 'Google',
         homeland: 'United States',
         age: 48,
@@ -82,7 +82,7 @@ const data = [
     {
         id: 9,
         name: 'Sergey Brin',
-        worth: 'USD$89 billion',
+        worth: '$89 billion',
         source: 'Google',
         homeland: 'Russia',
         age: 47,
@@ -92,7 +92,7 @@ const data = [
     {
         id: 10,
         name: 'Mukesh Ambani',
-        worth: 'USD$84.5 billion',
+        worth: '$84.5 billion',
         source: 'Diversified',
         homeland: 'Yemen',
         age: 63,

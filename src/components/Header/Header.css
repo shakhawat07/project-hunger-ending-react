@@ -1,4 +1,6 @@
 .header{
-    background-color: rgba(0, 0, 0, 0.33);
-    font-weight: 900;
+    background-color: rgba(0, 0, 0, 0.685);
+}
+.header-details{
+    line-height: 40px;
 }

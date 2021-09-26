@@ -3,13 +3,12 @@ import './Header.css'
 
 const Header = () => {
     return (
-        <div className="text-white header pb-4">
-            <h1 className="fw-1 bg-black py-3">Project Hunger Ending</h1>
-            <div className="px-5 mx-5">
-                <h4>Overcoming poverty is not a task of charity, it is and act of Justice. The project hunger ending will remove starvation within 2030. These are the heroes who will donate to solve the hunger problems in the world</h4>
-                <h4 className="mb-0">Total Donation: $105 Millions</h4>
+        <div className="pb-4 header">
+            <h1 className="text-white bg-black py-3">Project Hunger Ending</h1>
+            <div className="px-5 mx-5 text-white">
+                <h4 className="px-5 mx-5 header-details fw-lighter">The Project Hunger Ending will remove starvation within 2030. These are the heroes who has donated money for solving hunger problems in the world.</h4>
+                <h2 className="mb-0 fw-normal ">Total Donation: $154 Millions</h2>
             </div>
-
         </div>
     );
 };
