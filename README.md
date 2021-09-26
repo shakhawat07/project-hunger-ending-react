@@ -1,17 +1,14 @@
 # Project Hunger Ending
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Live site project link: [Project Hunger Ending](https://project-hunger-ending.netlify.app/).
 
-## Available Scripts
+## Project Highlight
 
-In the project directory, you can run:
+⋅⋅* Aim is to remove the humger problems within 2030
+⋅⋅* All the billionaires will donate money each year
+⋅⋅* Each person can donate many times in one year
+⋅⋅* Donate button will show total donated money in the cart
+⋅⋅* Donate button will also show the list of names
 
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
 
 
