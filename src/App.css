@@ -1,5 +1,11 @@
 .App {
   text-align: center;
+  /* fixed background image  */
+  background: url('https://thephiladelphiacitizen.org/wp-content/uploads/2019/10/fight-philadelphia-food-insecurity.jpg') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 
 .App-logo {

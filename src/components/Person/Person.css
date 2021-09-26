@@ -1,0 +1,16 @@
+.person{
+    /* display: grid;
+    grid-template-columns: repeat(3,1fr); */
+    border-bottom: 1px solid lightgray;
+    margin-right: 5px;
+    padding-bottom: 5px;
+}
+.person img{
+    width: 270px;
+    height: 200px;
+}
+.card-bg{
+    background-color: #fdfdfdab;
+    color: black;
+    font-weight: 700;
+}
